@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VERTEXXdev
+- 👀 I’m interested in programming languages like Python, C++, C#, Java, etc.
+- 🌱 I’m currently learning NodeJS.
+- 📫 You can contact me on discord: VERTEXX#5068
